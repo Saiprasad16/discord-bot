@@ -1,5 +1,10 @@
 
 
+
+![Build Status](https://travis-ci.com/Saiprasad16/discord-bot.png?branch=master)
+
+
+
 ```shell
 docker image build -t ubuntu:dbot .
 ```
